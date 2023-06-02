@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "${KIPRJMOD}/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "LCheng")(type "KiCad")(uri "${KIPRJMOD}/LCheng.pretty")(options "")(descr ""))
+  (lib (name "kicad_lib_tmk")(type "KiCad")(uri "${KIPRJMOD}/kicad_lib_tmk.pretty")(options "")(descr ""))
+  (lib (name "keyboard_parts")(type "KiCad")(uri "${KIPRJMOD}/keyboard_parts.pretty")(options "")(descr ""))
+)
